@@ -1,5 +1,5 @@
 language: python
 python:
-- "3.4”
+ - "3.4"
 script:
-- python testes.py
+ - python testes.py
